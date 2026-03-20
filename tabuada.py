@@ -38,4 +38,4 @@ mostra_tabuada(9)
 def mostra_tabuada(nome, numero):
     for i in range(1, 11):
         print(f"{numero} x {i} = {numero * i}")
-mostra_tabuada("kkk", 9)
+mostra_tabuada("Por que ", 9)
